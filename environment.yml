@@ -1,0 +1,26 @@
+name: env
+channels:
+  - rdkit
+  - pytorch
+  - anaconda
+  - defaults
+  - conda-forge
+  - openeye
+dependencies:
+  - python=3.10
+  - pytorch-cuda
+  - tensorflow
+  - pathos
+  - numpy
+  - pandas
+  - scipy
+  - h5py
+  - ipykernel
+  - pip
+  - openbabel
+  - rdkit
+  - xtb
+  - crest
+  - pip:
+      - gpyopt
+      - mccoygroup-psience

@@ -1,2 +1,2 @@
 # conflib
-A library of conformer generation techniques, constructed to be run in a container environment
+A library of conformer generation techniques, constructed to work with a container environment
